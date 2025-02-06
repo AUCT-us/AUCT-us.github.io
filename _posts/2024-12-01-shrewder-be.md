@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prediction Markets Increase Shrewdness, Awareness Of Likelihoods"
+title:  "Prediction Markets Promote Shrewd Awareness Of Likelihoods"
 subtitle:  "Teach voters to understand motives of others while they assess outcomes"
 date:   2024-12-01 4:30:00
 categories: template
