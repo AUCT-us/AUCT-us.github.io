@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Resource Recovery, Recycling & Refurbishment Examples"
+title:  "Resource Recovery, Recycling & Refurbishment"
 subtitle:  "Start With The BASICS; first we recycle ideas"
 date:   2025-01-01 4:30:00
 categories: template
 ---
 
-# Resource Recovery, Recycling & Refurbishment Examples
+# AWESOME Resource Recovery, Recycling & Refurbishment
 
 The following is only a placeholdder, not anywhere clost to being an exhaustive list yet; there are, of course, big gaps, but each of these examples represents a potential opportunity to recover value from used equipment through various processes including repair, refurbishment, remanufacturing, or material recovery. The economic viability of each option depends on factors such as labor costs, material values, market demand, and regulatory requirements.
 
