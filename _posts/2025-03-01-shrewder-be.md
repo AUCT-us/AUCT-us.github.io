@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The societal value of shrewdness built by trading in free markets"
+title:  "The societal value of shrewdness built by trading in prediction markets"
 subtitle:  "Teach voters to understand differences while they assess skills"
-date:   2026-09-01 4:30:00
+date:   2025-03-01 4:30:00
 categories: template
 ---
 
@@ -11,7 +11,7 @@ categories: template
 
 What if prediction markets were themselves based upon a collaborative, open source development community of auctioneers and political economists skilled enough in software development and secure dev ops administration to not only use, but OWN and extend their own prediction market platform.
 
-*Why should we even care about improving markets?*
+*Why should we even care about improving prediction markets?*
 
 ANY kind of market can really never be free enough, fair enough or open enough ... but the best way to improve markets is to engage tech-savvy auctioneers who love the freedom of auction and free markets enough to work at making the participants more shrewd, practiced, experienced and aware of the hidden informatational cues that price movements deliver.
 
