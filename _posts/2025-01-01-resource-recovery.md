@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resource Recovery, Recycling & Refurbishment"
+title:  "Resource Recovery, Recycling and Refurbishment"
 subtitle:  "Start With The BASICS; first we recycle ideas"
 date:   2025-01-01 4:30:00
 categories: template
