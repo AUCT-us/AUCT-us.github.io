@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  "Sharing exchanges for maximizing value"
-subtitle:  "Black, gray and disruptive adhoc markets furnish the most valuable information"
+title:  "Sharing Exchanges Maximize Value And NEW Connections"
+subtitle:  "Black, gray and disruptive adhoc markets furnish better information and communication"
 date:   2025-02-01 4:30:00
 categories: template
 ---
 
 
-# Sharing exchanges might be preferrable to just owning and under-utlizing an asset.
+# Sharing exchanges aew preferrable to just owning and under-utlizing an asset.
+
+*But there's more to it than just getting a return on an underutilized asset...*
 
 We can get starting point by thinking about the existing sharing platforms ... sharing platforms might be dismissed or underreported because they might seem to be revolutionarily non-traditional and unproven, disruptive of other working alternatives, ie taxi owners  dislike hate Uber, hotels dislike AirBnb or they don't generate enough advertising for established media companies. 
 
-What follows below are 250 sharing economy examples organized by category. These examples are each independently meaningful; it is probably the differences that help us to think more deeply about enabling more efficient use of resources through sharing economy principles, but this collection of 250 working exchanges is only the tip of a sharing information iceberg which we can all share.
+What follows below are 250 sharing economy examples organized by category. These examples are each independently meaningful, particularly for what new ideas which these exchanges add as alternatives. 
+
+It is probably the differences **and NEW DIFFERENTIATORS** that help us to think more deeply, more richly about enabling more efficient use of resources through sharing economy principles, but this collection of 250 working exchanges is only the tip of a sharing information iceberg which we can all share.
 
 Transportation & Vehicles:
 
