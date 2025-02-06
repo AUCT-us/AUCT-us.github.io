@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving upon Schelling point mechanisms for decentralized knowledgegraph engineering"
+title:  "Improving upon Schelling point mechanisms"
 subtitle:  "Token-curated registries for unforeseen discovery in shared science"
 date:   2024-04-01 4:30:00
 categories: template
