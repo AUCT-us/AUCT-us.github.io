@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving Societal Outcomes From Schelling Focal Point Mechanisms"
+title:  "Improving Societal Outcomes From The Schelling Focal Point"
 subtitle:  "Token-curated registries for unforeseen discovery in shared science"
 date:   2024-04-01 4:30:00
 categories: template
