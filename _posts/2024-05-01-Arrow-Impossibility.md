@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Application of Arrow's impossibility Theorem -- Blockchain Voting Systems"
+title:  "Applying Arrow's impossibility Theorem -- Blockchain Voting Systems"
 subtitle:  "Learn to appreciate ecosystems that work/live/think/evolve in Nature"
 date:   2024-05-01 4:30:00
 categories: template
