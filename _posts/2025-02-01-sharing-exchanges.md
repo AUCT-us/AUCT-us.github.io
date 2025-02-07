@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Sharing Maximizes Value, Adds NEW Connections"
+title:  "Sharing Maximizes Value, Forges NEW Connections"
 subtitle:  "Black, gray and disruptive adhoc markets furnish better information and communication"
 date:   2025-02-01 4:30:00
 categories: template
 ---
 
 
-# Sharing exchanges aew preferrable to just owning and under-utlizing an asset.
+# Sharing exchanges give us all kinds of options to think about
 
-*But there's more to it than just getting a return on an underutilized asset...*
+**There's way more to it than offering another revenue stream to anyone owning, possibly making finance payments on, and under-utlizing an asset.**
+
+*But there's WAY, WAY, WAY more to it than just getting a return on an underutilized asset...*
 
 We can get starting point by thinking about the existing sharing platforms ... sharing platforms might be dismissed or underreported because they might seem to be revolutionarily non-traditional and unproven, disruptive of other working alternatives, ie taxi owners  dislike hate Uber, hotels dislike AirBnb or they don't generate enough advertising for established media companies. 
 
