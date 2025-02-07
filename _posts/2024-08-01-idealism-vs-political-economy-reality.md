@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Practical Questions for Cooperative Game Theory in Community Projects"
+title:  "Practical Questions for Cooperative Game Theory For Communities"
 subtitle:  "Club goods and urban farming, fitness, repair, resource allocation"
 date:   2024-08-01 4:30:00
 categories: template
 ---
 
-# Practical Questions for Cooperative Game Theory in Community Projects
+# Practical Questions for Cooperative Game Theory For Communities
+
+To START off our exploration of this material and wrap our heads around the terminology and jargon, we have generated a list of 250 questions to help us get as sense of the lay of the land. These questions are based on the concrete aspects of how these the theory has been PRACTICALLY applied and whether the projects have actually worked, failed or generated unexpected outcomes ... rather than dwelling on hypothetical use cases or theoretical considerations *which tend to only interest the theoreticians who propose them*. 
 
 ## Resource Allocation and Time Banking
 
