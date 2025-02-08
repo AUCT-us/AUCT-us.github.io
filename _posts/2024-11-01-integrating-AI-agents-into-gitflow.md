@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integrating AI agents in to Git Workflows"
+title:  "Integrating AI agents Into Git-Driven Collaborative Workflows"
 subtitle:  "Have we've really learned anything new from the New Big Things in tech?"
 date:   2024-11-01 4:30:00
 categories: template
