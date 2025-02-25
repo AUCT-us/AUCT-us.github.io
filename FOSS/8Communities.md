@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Communities
-permalink: /Communities/
+title: 8)
+permalink: /FOSS/8/
 ---
 
+
+
+## Communities
 
 This is about the a variety of open source communities that are tangentially related to Resource Recovery, Sharing Economies, Voluntaryism, Social Choice and Distributed Governance.
 
