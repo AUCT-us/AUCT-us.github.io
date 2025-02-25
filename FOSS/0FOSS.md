@@ -4,15 +4,19 @@ title: FOSS
 permalink: /FOSS/0/
 ---
 
-At this point, this page is still TBD ... just a placeholder ... TBD List of AWESOME Lists ... especially in the realm of AGENTIC AI FOSS.
+**Auct.US is AGENTIC multi-agent AI ... it is a FOSS tool** ... something that we are building ... for using AI agents to assist us in retrieving information and comparing different sources of information in a market or auction or industry ... we might be interested in a job, in talent acquisition, looking into real estate or other asset prices or things like renting assets, trading exchanges, sharing economies or different mechanism to accelerate political negotiations or standoffs. 
 
-**Auct.US is AGENTIC multi-agent AI ... a tool for looking at several sources of information in a market or auction, asset price, trading exchanges, or [accelerated] negotiations**. 
+We are big fans of **FOSS**, ***FREE Open Source Software*** ... and yes, OF COURSE, we are huge fans of [Joe Foss](https://en.m.wikipedia.org/wiki/Joe_Foss) and his brand of freedom and fighting for freedom ... but in this repository, the kind of *freedom* we are fighting for and the freedom that shows up in our discussions of agentic tools, is about FREELY extensible, open source sortware. Freedom and openness are always good things and **Discipline [of open source] Equals Freedom!**
 
-We are big fans of FOSS, *FREE Open Source Software* ... and yes, OF COURSE, we are really big fans of [Joe Foss](https://en.m.wikipedia.org/wiki/Joe_Foss) and his brand of freedom, but in this repository, the kind of *freedom* we refer to, in our discussions of agentic tools, is about FREELY extensible, open source sortware. Freedom is always a good thing and **Discipline [of open source] Equals Freedom!**
+## FOSS is Free and Open Source Sofware ... it starts with doing background investigations, via autodidactic study
 
-## FOSS is Free and Open Source Sofware
+We curate notes and lists in our study process, using different agents including, [GitHub OpenAI GPT](https://auctu.github.io/FOSS/3/), [Anthropic Claude](https://auctu.github.io/FOSS/4/), [Google Gemini Advanced](https://auctu.github.io/FOSS/5/), [Xai Grok](https://auctu.github.io/FOSS/6/). We ask the agents a similar question about developing a syllabus for autodidactic and study and suggestions for the compute that we will need in order work through examples in that study. 
 
-Curating and annotating these awesome lists is all about jumping off points for ideas ... these listings are all about open source PROJECTS that we think are pretty darned AWESOME.
+Then we develop annotated lists ... and we make those list somewhat intelligent with our ANNOTIFY app and our RSSistant tools [which is about extending/enhancing tools like Thunderbird] ... but mostly, background investigations are really about doing a LOT of reading ... and being AI-savvy to ensure that our reading time is as productive as possible. 
+
+Curating and annotating AWESOME lists is all about jumping off points for ideas ... our listings are all about open source PROJECTS that we think are pretty darned AWESOME ... not just because of the tools or technology, but REALLY it's about the PEOPLE dev'ing the tools and technology for others to use.
+
+*FOSS ... and fighting for the FREEDOM of open source software ... is mostly about interacting with human beings who are doing really cool things ... taking various theses behind big things and various antitheses behind alterative or competing big things and then synthesizing the next even bigger thing. FOSS is way bigger than just Linux or Git or any tool or all of the repositories of open source code out there.* **FOSS is about really smart, capable human beings creating extremely USEFUL and extensible tools and sharing the creative process with other human beings.**
 
 # Open Source Projects We LOVE ... And Hope To Contribute To
 
