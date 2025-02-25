@@ -4,9 +4,11 @@ title: FOSS
 permalink: /FOSS/0/
 ---
 
-At this point, this page is just a placeholder ... for now it's a TBD List of AWESOME Lists.
+At this point, this page is still TBD ... just a placeholder ... TBD List of AWESOME Lists ... especially in the realm of AGENTIC AI FOSS.
 
-Yeah, we are fans of [Joe Foss](https://en.m.wikipedia.org/wiki/Joe_Foss) and his brand of freedom, but in this repository, this kind of *freedom* is about FREELY extensible, open source sortware. Freedom is always a good thing and **Discipline Equals Freedom!**
+**Auct.US is AGENTIC multi-agent AI ... a tool for looking at several sources of information in a market or auction, asset price, trading exchanges, or [accelerated] negotiations**. 
+
+We are big fans of FOSS, *FREE Open Source Software* ... and yes, OF COURSE, we are really big fans of [Joe Foss](https://en.m.wikipedia.org/wiki/Joe_Foss) and his brand of freedom, but in this repository, the kind of *freedom* we refer to, in our discussions of agentic tools, is about FREELY extensible, open source sortware. Freedom is always a good thing and **Discipline [of open source] Equals Freedom!**
 
 ## FOSS is Free and Open Source Sofware
 

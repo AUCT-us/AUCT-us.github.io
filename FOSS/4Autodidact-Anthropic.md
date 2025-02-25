@@ -9,7 +9,7 @@ permalink: /FOSS/4/
 
 **Prompt/request, 2:30 2/25/2025.**  *Please develop a 200-module syllabus for my year-long autodidactic study of agentic RAG, building knowledge graphs and working with graph databases, spending approximately 150 minutes per day, 6 days per week. The syllabus should be comprehensive, using the full landscape of latest developments in RAG and AI engineering that you are aware of through your training data. It should be written at Level 6 of Bloom's Taxonomy. It should be in the form of an outline that encourages further just-in-time exploration as I work through the syllabus; in other words, I am not asking for a complete text, I am asking for an outline, in which it is up to me to fill in the material and develop my exercises. Although, it would be helpful to me if you could suggest the most cost-effective approach for procuring the available compute horsepower, either with something like a mini PC or NVIDIA DIGITS machine OR renting compute from different sources OR a combination of both.*
 
-# Claude Sonnet 3.7 ... Comprehensive Year-Long Syllabus: Agentic RAG, Knowledge Graphs & Graph Databases
+# Anthropic Claude Sonnet 3.7 ... Comprehensive Year-Long Syllabus: Agentic RAG, Knowledge Graphs & Graph Databases
 
 This comprehensive 200-module syllabus provides a structured approach to mastering agentic RAG, knowledge graphs, and graph databases over the course of a year. I've included compute resource recommendations to help you make cost-effective decisions about your technical infrastructure.
 
