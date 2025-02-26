@@ -121,7 +121,7 @@ Another option to consider is the **Cost-Effective Strategy** approach, which ba
    - Design a hybrid retrieval architecture
 
 4. **Knowledge Representation Paradigms**
-   - Compare symbolic, neural, and hybrid knowledge representations
+   - [Survey symbolic, neural, and hybrid knowledge representations](https://www.sciencedirect.com/science/article/pii/S2666651021000061) to understand advantages and disadvantages of symbolic and neural methodologies as well as efforts made on combining the two reasoning methods.
    - Evaluate ontological vs. statistical approaches to knowledge organization
    - Devise criteria for selecting representation strategies for different use cases
 
