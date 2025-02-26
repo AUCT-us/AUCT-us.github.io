@@ -14,6 +14,10 @@ This is about the game theoretic foundation of auction, brokerage, negotiation a
 
 [2025, so far](https://arxiv.org/list/cs.GT/2025?skip=0&show=2000),[2024, 1548 entries](https://arxiv.org/list/cs.GT/2024?skip=0&show=2000), [2023, 1326 entries](https://arxiv.org/list/cs.GT/2023?skip=0&show=2000), [2022, 1194 entries](https://arxiv.org/list/cs.GT/2022?skip=0&show=2000), [2021, 1102 entries](https://arxiv.org/list/cs.GT/2021?skip=0&show=2000)
 
+#### Computer Science and Information Retrieval
+
+[2025, so far](https://arxiv.org/list/cs.IR/2025?skip=0&show=2000),[2024, 3614 entries](https://arxiv.org/list/cs.IR/2024?skip=0&show=2000), [2023, 2619 entries](https://arxiv.org/list/cs.IR/2023?skip=0&show=2000), [2022, 2130 entries](https://arxiv.org/list/cs.IR/2022?skip=0&show=2000), [2021, 2017 entries](https://arxiv.org/list/cs.IR/2021?skip=0&show=2000)
+
 #### Computer Science and Multiagent Systems
 
 [2025, so far](https://arxiv.org/list/cs.MA/2025?skip=0&show=2000),[2024, 1396 entries](https://arxiv.org/list/cs.MA/2024?skip=0&show=2000), [2023, 1195 entries](https://arxiv.org/list/cs.MA/2023?skip=0&show=2000), [2022, 1038 entries](https://arxiv.org/list/cs.MA/2022?skip=0&show=2000), [2021, 956 entries](https://arxiv.org/list/cs.MA/2021?skip=0&show=2000)

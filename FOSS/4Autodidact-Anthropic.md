@@ -103,9 +103,10 @@ Another option to consider is the **Cost-Effective Strategy** approach, which ba
 
 ### Week 1-2: Fundamentals of RAG and Knowledge Representation
 1. **Information Retrieval Foundations**
-   - Examine vector search algorithms and their mathematical foundations
-   - Compare traditional IR vs. neural retrieval approaches
-   - Design your own simplified vector search implementation
+   - What is [Retrival-Augmented Generation (RAG)](https://medium.com/@alexrodriguesj/understanding-retrieval-augmented-generation-rag-concepts-and-applications-0c5941bbdedc)
+   - Examine [vector search algorithms for information retrieval](https://arxiv.org/search/?query=%22vector+search+algorithms%22+information+retrieval&searchtype=all&abstracts=show&order=-announced_date_first&size=50) and [vector retrieval mathematical foundations](https://arxiv.org/abs/2401.09350)
+   - Compare traditional IR techniques such TF-IDF or BM25 or Query Likelihood [including IR ***pre-training*** approaches such as [Caseformer](https://arxiv.org/abs/2311.00333)] vs. [neural retrieval](https://arxiv.org/search/?query=%22neural+retrieval%22+information+retrieval&searchtype=all&source=header) approaches
+   - Design your own [simplified vector search implementation](https://arxiv.org/search/?query=simplified+vector+search+implementation&searchtype=all&source=header)
 
 2. **Vector Embeddings & Semantic Representations**
    - Analyze embedding space properties and dimension reduction techniques
