@@ -116,7 +116,7 @@ Another option to consider is the **Cost-Effective Strategy** approach, which ba
    - Create a test suite to measure embedding quality for domain-specific needs
 
 3. **Neural Information Retrieval Principles**
-   - Deconstruct dense vs. sparse retrieval architectures ... when we look at the technical architecture of RAG LLM, we see it is the balance in [retrieval mechanisms relative to the size of the job]](https://labelyourdata.com/articles/rag-llm#retrieval-mechanism) that is essential for the optimizing the LLM for RAG performance, relative to needs and constraints.
+   - Deconstruct dense vs. sparse retrieval architectures ... when we look at the technical architecture of RAG LLM, we see it is the balance in [retrieval mechanisms relative to the size of the job](https://labelyourdata.com/articles/rag-llm#retrieval-mechanism) that is essential for the optimizing the LLM for RAG performance, relative to needs and constraints. Data engineering processes set the stage for optimal RAG; for example, [data annotation](https://labelyourdata.com/articles/data-annotation) transforms raw data into labeled datasets that ML/AI algorithms can use to optimize learning, scale projects, reduce costs, and greatly improve the accuracy of results. 
    - Identify failure modes in neural retrieval systems
    - Design a hybrid retrieval architecture
 
