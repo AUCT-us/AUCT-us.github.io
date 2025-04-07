@@ -2,7 +2,7 @@
 layout: post
 title:  "Vibe-Coding Your Own Social Commerce Platform"
 subtitle:  "Assuming That You Understand The Lay Of The Land In The Social Commerce Universe"
-date:   2025-03-01 4:30:00
+date:   2025-04-05 4:30:00
 categories: template
 ---
 
