@@ -6,9 +6,13 @@ date:   2025-03-01 4:30:00
 categories: template
 ---
 
-### Preface: Before you begin coding your platform, UNDERSTAND the social commerce landscape as best you can as a buyer/seller
+### Preface: Before you begin
 
-Before diving into the 100-module journey of building "Aura," your vibified social commerce platform, you must develop a deep understanding of the existing ecosystem and how buyers/sellers use that ecoystem. This is not an optional step but a critical foundation that will determine whether your platform truly innovates or simply recreates what already exists.
+**BEFORE you begin coding your platform, UNDERSTAND the social commerce landscape as best you can as a buyer/seller ... then understand its significance economically**
+
+*Please do NOT just dive in start building an app.* For one thing, you'll be reinventing the same old wheel with some minor embellishment, but mostly you will not have a prayer of developing something that might take a year that will look like it's remotely current. You need to understand where the market is going to be in a year AND you need to understand how you will build in observability into your architecture to help you keep the app current when it is operational.
+
+**Before** diving into the 100-module journey of building "Aura," your vibified social commerce platform, you must develop a deep understanding of the existing ecosystem and where that ecosystem is heading. You not only need to know how buyers/sellers use that ecoystem now, but you need to have some sort of idea how those users will want to use the system AFTER they have become used to having AI-assistance everywhere. This is not an optional step but a critical foundation that will determine whether your platform truly innovates or simply recreates old systems that already exists and are ready for retirement.
 
 #### First Priority: Market Intelligence
 
