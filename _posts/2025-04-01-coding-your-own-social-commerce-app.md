@@ -19,6 +19,7 @@ categories: template
 The technology stack, frameworks, and coding patterns you'll learn in the upcoming modules are merely tools. Before touching a single line of code, immerse yourself in understanding:
 
 * The current top 100 e-commerce platforms; ideally focus on 100 in a sub-niche, eg car parts or nursery stock, that you are passionate about.
+* How do the best niche apps *play well with others*, particularly the dominant [top 20 social commerce platforms](https://docs.google.com/spreadsheets/d/11rZG_5K4CWo9M3lTPOro7ai_ntrG1TIauMBUCOUUDdU/edit?usp=sharing) like Facebook, Youtube, Pinterest, Etsy, Behance, Big Cartel, IndieCart or others
 * How they approach social elements, community building, engagement and evangelization
 * Where user experience excells in some, falls short in others across these platforms
 * Other than user interface navigability, which aesthetic approaches resonate with different user segments
