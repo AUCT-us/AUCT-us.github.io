@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decentralized Autonomous Organizations (DAOs)"
+title:  "What Have We Learned From Decentralized Autonomous Organizations (DAOs)"
 subtitle:  "Governance through various bidding, continuous voting/re-voting mechanisms"
 date:   2025-03-01 4:30:00
 categories: template
