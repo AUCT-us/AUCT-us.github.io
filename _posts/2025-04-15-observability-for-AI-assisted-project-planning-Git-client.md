@@ -6,6 +6,12 @@ categories: template
 ---
 # The Invisible Butler, Observability Engineering and AI-Enhanced DVCS Systems
 
+Below we outline the architectural vision for [[GitProjMgr](https://github.com/AuctU/GitProjMgr)](https://github.com/AuctU/GitProjMgr), a project that builds upon GitButler's foundation to create an enhanced collaborative project management experience. Rather than reimagining GitButler, GitProjMgr aims to extend its capabilities by implementing sophisticated observability engineering that enables more meaningful AI integration.
+
+The core innovation lies in creating a system that observes development activities unobtrusively—like a "fly on the wall"—capturing the rich tapestry of interactions, discussions, edits, and reactions that occur naturally during collaborative work. This ambient intelligence approach allows the system to gradually learn from the nuances of human collaboration without imposing structured workflows or disrupting creative processes.
+
+By leveraging the solid foundation of Git-based technologies (Git, GitButler, GitHub/GitLab) while enhancing them with advanced observability, GitProjMgr aims to bridge the gap between technical and non-technical collaborators while maintaining the "butler vibe"—present when needed but invisible until then. This approach creates the foundation for increasingly sophisticated AI assistance that emerges organically from real project context rather than theoretical models.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
