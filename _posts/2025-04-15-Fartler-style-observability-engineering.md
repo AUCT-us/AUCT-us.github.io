@@ -38,22 +38,22 @@ To implement this gas-preservation system with the proper hepness:
 
 #### The Cool Chill: Invisible Behind-The-Scenes Observation AI
 
-3. **Non-Invasive Microphones**
-   - Deploy collectors that are so cool they're invisible, man
-   - Create what the uncool might call "minimal-overhead instrumentation"
-   - Make the recording happen without harshening the creator's mellow
+3. **Non-Invasive Fart Capture**
+   - Deploy data collection in a cool, ubiquitous, invisible way, man
+   - Create what the uncool might call "minimal-overhead instrumentation" to capture the vibe
+   - Capture the gas without harshening or lubing the creator's marshiest mellows
 
 4. **Multi-Dimensional Capture**
-   - Record not just the code, but the music playing in the background
-   - Capture window switching, browser research—the whole contextualized happening
-   - Preserve timing, rhythm, and flow—the bebop structure of creation
+   - Record not just the gaseous code, but the whole path of steps behind how the gas was passed
+   - Capture window switching, browser research—the whole contextualized happening, the whole vibe
+   - Sniff the gas, then compress it, while preserve timing, rhythm, and flow—the bebop structure of creation
 
 #### The Connection: Permanent Artifacts, Fartling Up The Gas, Preservation AI
 
 5. **Eternal Bottling**
-   - Connect these captured vibes directly to commits
+   - Connect these captured vibes directly to commits and the Git data model
    - Store the full improvisational session alongside the final polished product
-   - Create rich metadata that keeps the context alive, man
+   - Create rich metadata that keeps the vibe of the gaseous context alive, man
 
 6. **Future Sniffing Interfaces**
    - Develop tools for future cats to really dig these preserved sessions
