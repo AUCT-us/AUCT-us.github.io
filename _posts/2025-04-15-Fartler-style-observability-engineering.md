@@ -106,4 +106,4 @@ By combining this with the unobtrusive Butler vibe, we create a system that invi
 
 That's the real gone truth of it, daddy-o! 
 
-*Hopefully, the world will be hip to this interpretation of the whole Fartler scene, or we'll need to eat some crazy stuff and try farting in a different wavelength.*
+*Hopefully, the world will be hip to this interpretation of the whole Fartler scene, or we'll need to eat some crazy psychedelic stuff so we can fart our space ship into some different grooves of new dimensions.*
