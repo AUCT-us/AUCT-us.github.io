@@ -4,7 +4,7 @@ title:  "Implementing Fartler Approach To Obervability Engineering in GitProjMgr
 date:   2025-04-15 9:30:00
 categories: template
 ---
-*Dig the architectural vision for [GitProjMgr](https://github.com/AuctU/GitProjMgr), so you can appreciate the beauty of* **the Fartler approach** ... ***as in "fartling up some vibe" ... is all about bottling up the ambient gas of a coding vibe session for eternity, so that somebody or some AI can sniff the vibe later.***
+*Dig the architectural vision for [GitProjMgr](https://fartslive.github.io/roadmap/2025/04/15/observability-for-AI-assisted-project-planning-Git-client.html), so you can appreciate the beauty of* **the Fartler approach** ... ***as in "fartling up some vibe" ... is all about bottling up the ambient gas of a coding vibe session for eternity, so that somebody or some AI can sniff the vibe later.***
 
 ### The Fartler Approach and Some Hip Implementation Recommendations
 
