@@ -1,4 +1,4 @@
-# Guerrilla Marketing Vibification
+# Guerrilla Marketing Strategy
 
 ## 1. Micro-Influencer Swarm Strategy
 Leverage networks of micro-influencers with highly engaged niche followers instead of pursuing costly celebrity endorsements. This approach embodies Guerrilla Marketing's principle of maximizing impact while minimizing financial investment. The authenticity of micro-influencers generates higher engagement rates and trust compared to traditional advertising. By activating multiple micro-influencers simultaneously, brands create a perception of omnipresence in targeted communities.
