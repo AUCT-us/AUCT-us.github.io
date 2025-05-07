@@ -2,7 +2,6 @@
 
 [Guerilla Mktg Strategies](Manifesto.md)
 
-- [Guerilla Mktg Tactical Implementations](./chapter_7.md)
 - [Information Autonomy](./chapter_1.md)
     - [Philosophical Foundations](nested/sub-chapter_1.1.md)
     - [Technical Foundations](nested/sub-chapter_1.2.md)
