@@ -1,8 +1,0 @@
-# Site settings
-title: AUCT.us
-email: MarkBruns@MarkBruns.com
-description: Self-starting, autodidactic training ... a bid ... TO INCREASE the value of all economic activity
-github_username:  AuctU
-
-# Build settings
-markdown: kramdown
