@@ -2,6 +2,7 @@
 
 [Guerilla Mktg Strategies](Manifesto.md)
 
+- [GYG.be - An App To Accelerate The Negotiations Of Side Hustle Connections](./A.md)
 - [Information Autonomy](./chapter_1.md)
     - [Philosophical Foundations](nested/sub-chapter_1.1.md)
     - [Technical Foundations](nested/sub-chapter_1.2.md)
