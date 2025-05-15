@@ -6,21 +6,21 @@ This fifth step builds upon our understanding of the core value proposition, com
 
 This approach to defining features recognizes that we are not merely building functional capabilities but creating architecture for human connection, growth, and purpose. Each feature serves not just practical needs but the deeper dimensions of collaborative creation. By honoring this responsibility, we design a platform that nurtures both technical excellence and human flourishing.
 ## Phase 1: Conceptualization and Planning.
-- [Step 1: Define Core Value Proposition](#nested/sub-chapter_A.1.md)
-- [Step 2: Conduct Market Research](#nested/sub-chapter_A.2.md)
-- [Step 3: Choose Tech Stack](#nested/sub-chapter_A.3.md)
-- [Step 4: Create User Personas](#nested/sub-chapter_A.4.md)
-- [Step 5: Define Key Features](#nested/sub-chapter_A.5.md)
-- [Step 6: Outline MVP Requirements](#nested/sub-chapter_A.6.md)
-- [Step 7: Create System Architecture](#nested/sub-chapter_A.7.md)
-- [Step 8: Define Development Methodology](#nested/sub-chapter_A.8.md)
-- [Step 9: Set Up Project Management](#nested/sub-chapter_A.9.md)
-- [Step 10: Determine Licensing Approach](#nested/sub-chapter_A.10.md)
-- [Step 11: Draft Product Roadmap](#nested/sub-chapter_A.11.md)
-- [Step 12: Assess Technical Feasibility](#nested/sub-chapter_A.12.md)
-- [Step 13: Define Success Metrics](#nested/sub-chapter_A.13.md)
-- [Step 14: Create Wireframes](#nested/sub-chapter_A.14.md)
-- [Step 15: Establish Project Governance](#nested/sub-chapter_A.15.md)
+- [Step 1: Define Core Value Proposition](./sub-chapter_A.1.md)
+- [Step 2: Conduct Market Research](./sub-chapter_A.2.md)
+- [Step 3: Choose Tech Stack](./sub-chapter_A.3.md)
+- [Step 4: Create User Personas](./sub-chapter_A.4.md)
+- [Step 5: Define Key Features](./sub-chapter_A.5.md)
+- [Step 6: Outline MVP Requirements](./sub-chapter_A.6.md)
+- [Step 7: Create System Architecture](./sub-chapter_A.7.md)
+- [Step 8: Define Development Methodology](./sub-chapter_A.8.md)
+- [Step 9: Set Up Project Management](./sub-chapter_A.9.md)
+- [Step 10: Determine Licensing Approach](./sub-chapter_A.10.md)
+- [Step 11: Draft Product Roadmap](./sub-chapter_A.11.md)
+- [Step 12: Assess Technical Feasibility](./sub-chapter_A.12.md)
+- [Step 13: Define Success Metrics](./sub-chapter_A.13.md)
+- [Step 14: Create Wireframes](./sub-chapter_A.14.md)
+- [Step 15: Establish Project Governance](./sub-chapter_A.15.md)
 #### Subject to Replanning After Phase 1
 - [Phase 2: Core Infrastructure Development](../A.md#phase-2-core-infrastructure-development-steps-16-30)
 - [Phase 3: User Interface Development](../A.md#phase-3-user-interface-development-steps-31-45)
@@ -28,7 +28,6 @@ This approach to defining features recognizes that we are not merely building fu
 - [Phase 5: Testing and Refinement](../A.md#phase-5-testing-and-refinement-steps-61-70)
 - [Phase 6: Launch and Initial Growth](../A.md#phase-6-launch-and-initial-growth-steps-71-85)
 - [Phase 7: Scaling and Evolution](../A.md#phase-7-scaling-and-evolution-steps-86-100)
-
 ## Features as Architecture for Human Connection
 
 When defining features, we recognize that we're not simply building functional capabilities but creating spaces where humans connect, grow, and express their deeper values through technical creation. Each feature should serve not just practical needs but deeper human longings for meaning, authenticity, and community.

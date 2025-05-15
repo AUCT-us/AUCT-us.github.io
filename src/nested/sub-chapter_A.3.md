@@ -5,21 +5,21 @@ This third step builds upon understanding the competitive market research and co
 
 This more holistic, mindful or spiritual approach to technology selection transcends mere technical evaluation to explicitly consider how our choices will shape not just individual cognition but human relationships, community development, and spiritual growth. By selecting technologies that serve as infrastructure for human flourishing, we create the foundation for both neuroplastic acceleration and the cultivation of a more compassionate, connected technical culture.
 ## Phase 1: Conceptualization and Planning.
-- [Step 1: Define Core Value Proposition](#nested/sub-chapter_A.1.md)
-- [Step 2: Conduct Market Research](#nested/sub-chapter_A.2.md)
-- [Step 3: Choose Tech Stack](#nested/sub-chapter_A.3.md)
-- [Step 4: Create User Personas](#nested/sub-chapter_A.4.md)
-- [Step 5: Define Key Features](#nested/sub-chapter_A.5.md)
-- [Step 6: Outline MVP Requirements](#nested/sub-chapter_A.6.md)
-- [Step 7: Create System Architecture](#nested/sub-chapter_A.7.md)
-- [Step 8: Define Development Methodology](#nested/sub-chapter_A.8.md)
-- [Step 9: Set Up Project Management](#nested/sub-chapter_A.9.md)
-- [Step 10: Determine Licensing Approach](#nested/sub-chapter_A.10.md)
-- [Step 11: Draft Product Roadmap](#nested/sub-chapter_A.11.md)
-- [Step 12: Assess Technical Feasibility](#nested/sub-chapter_A.12.md)
-- [Step 13: Define Success Metrics](#nested/sub-chapter_A.13.md)
-- [Step 14: Create Wireframes](#nested/sub-chapter_A.14.md)
-- [Step 15: Establish Project Governance](#nested/sub-chapter_A.15.md)
+- [Step 1: Define Core Value Proposition](./sub-chapter_A.1.md)
+- [Step 2: Conduct Market Research](./sub-chapter_A.2.md)
+- [Step 3: Choose Tech Stack](./sub-chapter_A.3.md)
+- [Step 4: Create User Personas](./sub-chapter_A.4.md)
+- [Step 5: Define Key Features](./sub-chapter_A.5.md)
+- [Step 6: Outline MVP Requirements](./sub-chapter_A.6.md)
+- [Step 7: Create System Architecture](./sub-chapter_A.7.md)
+- [Step 8: Define Development Methodology](./sub-chapter_A.8.md)
+- [Step 9: Set Up Project Management](./sub-chapter_A.9.md)
+- [Step 10: Determine Licensing Approach](./sub-chapter_A.10.md)
+- [Step 11: Draft Product Roadmap](./sub-chapter_A.11.md)
+- [Step 12: Assess Technical Feasibility](./sub-chapter_A.12.md)
+- [Step 13: Define Success Metrics](./sub-chapter_A.13.md)
+- [Step 14: Create Wireframes](./sub-chapter_A.14.md)
+- [Step 15: Establish Project Governance](./sub-chapter_A.15.md)
 #### Subject to Replanning After Phase 1
 - [Phase 2: Core Infrastructure Development](../A.md#phase-2-core-infrastructure-development-steps-16-30)
 - [Phase 3: User Interface Development](../A.md#phase-3-user-interface-development-steps-31-45)
@@ -27,7 +27,6 @@ This more holistic, mindful or spiritual approach to technology selection transc
 - [Phase 5: Testing and Refinement](../A.md#phase-5-testing-and-refinement-steps-61-70)
 - [Phase 6: Launch and Initial Growth](../A.md#phase-6-launch-and-initial-growth-steps-71-85)
 - [Phase 7: Scaling and Evolution](../A.md#phase-7-scaling-and-evolution-steps-86-100)
-
 ## Choosing Technologies That Enable Neuroplastic Acceleration
 
 The selection of our technology stack isn't merely a technical decision—it's a choice of cognitive infrastructure that will either accelerate or inhibit the neuroplastic transformation of our users. We also should expect that our users will help to transform their colleagues and friends, so this is why we are doing should be thought of as being primarily social. We must choose technologies that function as extensions of human cognition AND opportunities to improve the societal ability to learn, grow and LOVE. 

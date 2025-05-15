@@ -6,21 +6,21 @@ This fourth step builds upon understanding the competitive market research, core
 
 This approach to persona development recognizes that the people we serve are whole humans—not just technical operators but spiritual beings seeking meaning, connection, and purpose while navigating rapidly evolving technological landscapes. By understanding them in this integrated way, we can create tools that serve not just their functional needs but their deeper aspirations for growth, community, and contribution.
 ## Phase 1: Conceptualization and Planning.
-- [Step 1: Define Core Value Proposition](#nested/sub-chapter_A.1.md)
-- [Step 2: Conduct Market Research](#nested/sub-chapter_A.2.md)
-- [Step 3: Choose Tech Stack](#nested/sub-chapter_A.3.md)
-- [Step 4: Create User Personas](#nested/sub-chapter_A.4.md)
-- [Step 5: Define Key Features](#nested/sub-chapter_A.5.md)
-- [Step 6: Outline MVP Requirements](#nested/sub-chapter_A.6.md)
-- [Step 7: Create System Architecture](#nested/sub-chapter_A.7.md)
-- [Step 8: Define Development Methodology](#nested/sub-chapter_A.8.md)
-- [Step 9: Set Up Project Management](#nested/sub-chapter_A.9.md)
-- [Step 10: Determine Licensing Approach](#nested/sub-chapter_A.10.md)
-- [Step 11: Draft Product Roadmap](#nested/sub-chapter_A.11.md)
-- [Step 12: Assess Technical Feasibility](#nested/sub-chapter_A.12.md)
-- [Step 13: Define Success Metrics](#nested/sub-chapter_A.13.md)
-- [Step 14: Create Wireframes](#nested/sub-chapter_A.14.md)
-- [Step 15: Establish Project Governance](#nested/sub-chapter_A.15.md)
+- [Step 1: Define Core Value Proposition](./sub-chapter_A.1.md)
+- [Step 2: Conduct Market Research](./sub-chapter_A.2.md)
+- [Step 3: Choose Tech Stack](./sub-chapter_A.3.md)
+- [Step 4: Create User Personas](./sub-chapter_A.4.md)
+- [Step 5: Define Key Features](./sub-chapter_A.5.md)
+- [Step 6: Outline MVP Requirements](./sub-chapter_A.6.md)
+- [Step 7: Create System Architecture](./sub-chapter_A.7.md)
+- [Step 8: Define Development Methodology](./sub-chapter_A.8.md)
+- [Step 9: Set Up Project Management](./sub-chapter_A.9.md)
+- [Step 10: Determine Licensing Approach](./sub-chapter_A.10.md)
+- [Step 11: Draft Product Roadmap](./sub-chapter_A.11.md)
+- [Step 12: Assess Technical Feasibility](./sub-chapter_A.12.md)
+- [Step 13: Define Success Metrics](./sub-chapter_A.13.md)
+- [Step 14: Create Wireframes](./sub-chapter_A.14.md)
+- [Step 15: Establish Project Governance](./sub-chapter_A.15.md)
 #### Subject to Replanning After Phase 1
 - [Phase 2: Core Infrastructure Development](../A.md#phase-2-core-infrastructure-development-steps-16-30)
 - [Phase 3: User Interface Development](../A.md#phase-3-user-interface-development-steps-31-45)
@@ -28,7 +28,6 @@ This approach to persona development recognizes that the people we serve are who
 - [Phase 5: Testing and Refinement](../A.md#phase-5-testing-and-refinement-steps-61-70)
 - [Phase 6: Launch and Initial Growth](../A.md#phase-6-launch-and-initial-growth-steps-71-85)
 - [Phase 7: Scaling and Evolution](../A.md#phase-7-scaling-and-evolution-steps-86-100)
-
 ## Understanding Whole Humans in Technological Evolution
 
 Creating personas is not simply about modeling users as economic or functional actors, but understanding whole people with complex inner lives who exist in rapidly evolving technological and social ecosystems. In the era of AI-accelerated neuroplasticity, we must consider not just what people do with technology, but how technology is reshaping their fundamental sense of self, community, and purpose.
