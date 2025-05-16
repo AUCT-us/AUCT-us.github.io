@@ -2,7 +2,9 @@
 
 Let's say that a Christian has four or five decades of life remaining and wants to work on something that more effectively spreads the word and evangelizes the Gospel by working with others to build things that provide the foundations for people to improve over centuries, by drawing people into interesting, challenging work that will make even more significant impact over the course of. 
 
-Christians are apostles of the Word and we should be thinking about building the foundations of meaningful project that require 100s of years to accomplish. It's like planting trees that live for hundreds of years, for distant future generations that will never have a connection to the original planters. Here are 100 ***STARTING*** ideas to develop a list of 100 good project ideas that could contribute to the greater good and bring glory to God:
+Christians are apostles of the Word and we should be thinking about building the foundations of meaningful project that require 100s of years to accomplish. It's like planting trees that live for hundreds of years, for distant future generations that will never have a connection to the original planters. 
+
+As a way to START the process of ideation ... here are 100 ***STARTING*** ideas suggested by AI ... the AI suggested ideas are not that good, but they are not bad for a START ... and this is only a START on the way to develop a practical list of 100 good project ideas that could contribute to the greater good and bring glory to God
 
 ## Table of Contents
 1. [Open Source AI Revolution for Real-World Problems](#1-open-source-ai-revolution-for-real-world-problems)
