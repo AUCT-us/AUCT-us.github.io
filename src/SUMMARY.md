@@ -18,7 +18,7 @@
     - [Step 13: Define Success Metrics](nested/sub-chapter_A.13.md)
     - [Step 14: Create Wireframes](nested/sub-chapter_A.14.md)
     - [Step 15: Establish Project Governance](nested/sub-chapter_A.15.md)
-- [100 Projects For The Glory of God](./B.md)
+- [The REASON For The Toolchain Improvements -- The 100-Project Bucket List](./B.md)
 - [Information Autonomy](./chapter_1.md)
     - [Philosophical Foundations](nested/sub-chapter_1.1.md)
     - [Technical Foundations](nested/sub-chapter_1.2.md)
