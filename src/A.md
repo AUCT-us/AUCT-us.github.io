@@ -2,7 +2,7 @@
 
 The goal is to create, build, develop, improve, but MOSTLY extend and enhance distributed ecosystems of autodidactic, self-starting technicians, developers, engineers, architects, mathematicians, physicists, scientists and artists who collaborate on dogfooding the  technical components of their development workflows by developing and extending open source technologies:
 
-- **Git-Based and Jujutsu-Based Collaboration**: This is CORE to project sharing and the notion of forkable projects under version control
+- **Git-Based and Jujutsu-Based Collaboration**: This is CORE to project sharing and the notion of forkable projects under DISTRIBUTED version control
 - **WASM Implementation**: For lower-latency browser-based powerful applications, on desktops and mobile, without installation
 - **Tauri/Rust/Svelte or something even faster, more secure in the realm of lower-level MLIR compiler technologies**: For reliable, secure performance and cross-platform capabilities
 - **P2P communication channels for humans**:  Mostly, this is simply a matter of fora, issue discussions, helping one another for direct collaboration that is ingested into AI and the available as open source LLM models without centralized bottlenecks and parasitic orgs re-selling community data.
